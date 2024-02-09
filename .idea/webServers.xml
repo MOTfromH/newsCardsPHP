@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8a993484-0a0e-47c3-a68b-9ef537c65b60" name="local" url="http://localhost">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\newsFunktion" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
